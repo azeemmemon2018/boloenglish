@@ -1,0 +1,6 @@
+{
+  "name": "Bilingual English-Urdu Routine Speaking & Listening Tutor",
+  "description": "100 interactive daily routine and life conversation English scenes with sequential Urdu voice translation, voice recording comparison, pronunciation scoring, and offline access.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
